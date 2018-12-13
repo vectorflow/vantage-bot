@@ -1,2 +1,0 @@
-# vantage-bot
-vantage-bot
